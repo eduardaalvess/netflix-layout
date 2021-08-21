@@ -5,6 +5,6 @@ exemplificando como estruturar um layout, técnicas de CSS3 com containers e var
 como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
 
-[](https://www.reddit.com/user/saintvkilla/comments/p8lr03/netflixclonegif/?utm_source=share&utm_medium=web2x&context=3)
+![](https://www.reddit.com/user/saintvkilla/comments/p8lr03/netflixclonegif/?utm_source=share&utm_medium=web2x&context=3)
 
 
