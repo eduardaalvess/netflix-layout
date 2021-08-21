@@ -5,6 +5,6 @@ exemplificando como estruturar um layout, técnicas de CSS3 com containers e var
 como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
 
-<img src="https://preview.redd.it/d5e2yj7hbni71.gif">
+[](https://preview.redd.it/d5e2yj7hbni71.gif)
 
 
